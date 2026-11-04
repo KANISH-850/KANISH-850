@@ -1,9 +1,7 @@
 # 👋 Hi, I'm Kanish K
 
-### AI Engineer | Machine Learning | Deep Learning | Generative AI | AI Agents
-
-🎓 Computer Science & Engineering Student at Bannari Amman Institute of Technology  
-📍 India  
+🎓 Computer Science & Engineering Student at Bannari Amman Institute of Technology
+📍 India
 🚀 Building intelligent systems that solve real-world engineering problems.
 
 ---
@@ -47,6 +45,7 @@ I'm a Computer Science and Engineering student passionate about building practic
 ## 🚀 Featured Projects
 
 ### 🥇 Digital Twin of EHV Substation Monitoring
+
 **Smart India Hackathon (SIH) – Winner**
 
 - Developed a Digital Twin-based solution for monitoring Extra High Voltage (EHV) substations.
@@ -54,6 +53,7 @@ I'm a Computer Science and Engineering student passionate about building practic
 - Worked with approximately **50,000 synthetic and industry-informed records**.
 
 ### 🥈 Kiosk Management System
+
 **CDAC Hackathon – Runner-up**
 
 - Developed a software solution for streamlined kiosk management and operations.
@@ -65,84 +65,86 @@ I'm a Computer Science and Engineering student passionate about building practic
 
 ### 👨‍💻 Programming Languages
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45" alt="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/>
-</p>
+\<p align="left">
+&#x20; \<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)" width="45" height="45" alt="Python"/>
+&#x20; \<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg)" width="45" height="45" alt="C"/>
+&#x20; \<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)" width="45" height="45" alt="JavaScript"/>
+&#x20; \<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg)" width="45" height="45" alt="TypeScript"/>
+\</p>
 
 ### 🤖 AI / ML & Data Science
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45" alt="NumPy"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="45" height="45" alt="Scikit-learn"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45" height="45" alt="Jupyter"/>
-</p>
+\<p align="left">
+&#x20; \<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg)" width="45" height="45" alt="NumPy"/>
+&#x20; \<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg)" width="45" height="45" alt="Pandas"/>
+&#x20; \<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg)" width="45" height="45" alt="Scikit-learn"/>
+&#x20; \<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg)" width="45" height="45" alt="Jupyter"/>
+\</p>
 
 ### 🌐 Web Development & Backend
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="45" height="45" alt="Vite"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="Tailwind CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45" height="45" alt="FastAPI"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" height="45" alt="Express.js"/>
-</p>
+\<p align="left">
+&#x20; \<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)" width="45" height="45" alt="React"/>
+&#x20; \<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg)" width="45" height="45" alt="Vite"/>
+&#x20; \<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg)" width="45" height="45" alt="Tailwind CSS"/>
+&#x20; \<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg)" width="45" height="45" alt="Node.js"/>
+&#x20; \<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg)" width="45" height="45" alt="FastAPI"/>
+&#x20; \<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg)" width="45" height="45" alt="Express.js"/>
+\</p>
 
 ### 🗄️ Database & Tools
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="45" height="45" alt="Prisma"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45" alt="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker"/>
-</p>
+\<p align="left">
+&#x20; \<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg)" width="45" height="45" alt="PostgreSQL"/>
+&#x20; \<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg)" width="45" height="45" alt="Prisma"/>
+&#x20; \<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg)" width="45" height="45" alt="Git"/>
+&#x20; \<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)" width="45" height="45" alt="GitHub"/>
+&#x20; \<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg)" width="45" height="45" alt="VS Code"/>
+&#x20; \<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg)" width="45" height="45" alt="Linux"/>
+&#x20; \<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg)" width="45" height="45" alt="Docker"/>
+\</p>
 
 ---
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KANISH-850&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KANISH-850&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages"/>
-</p>
+\<p align="center">
+&#x20; \<img src="[https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=KANISH-850&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=KANISH-850\&show_icons=true\&theme=tokyonight\&hide_border=true)" height="165" alt="GitHub Stats"/>
+&#x20; \<img src="[https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KANISH-850&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KANISH-850\&layout=compact\&theme=tokyonight\&hide_border=true)" height="165" alt="Top Languages"/>
+\</p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=KANISH-850&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak"/>
-</p>
+\<p align="center">
+&#x20; \<img src="[https://streak-stats.demolab.com?user=KANISH-850&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=KANISH-850\&theme=tokyonight\&hide_border=true)" width="70%" alt="GitHub Contribution Streak"/>
+\</p>
 
 ---
 
 ## 🧩 LeetCode Profile
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/kanishk850?theme=dark&font=Outfit&ext=contest" alt="LeetCode Statistics"/>
-</p>
+\<p align="center">
+&#x20; \<a href="[https://leetcode.com/u/kanishk850/](https://leetcode.com/u/kanishk850/)">
+&#x20;   \<img src="[https://leetcard.jacoblin.cool/kanishk850?theme=dark&font=Outfit](https://leetcard.jacoblin.cool/kanishk850?theme=dark\&font=Outfit)" width="500" alt="LeetCode Statistics"/>
+&#x20; \</a>
+\</p>
 
 ---
 
 ## 🤝 Let's Connect
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/kanish-k850">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/KANISH-850">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-  <a href="mailto:kanishkgins@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email"/>
-  </a>
-</p>
+\<p align="left">
+&#x20; \<a href="[https://www.linkedin.com/in/kanish-k850](https://www.linkedin.com/in/kanish-k850)">
+&#x20;   \<img src="[https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)" alt="LinkedIn"/>
+&#x20; \</a>
+&#x20; \<a href="[https://github.com/KANISH-850](https://github.com/KANISH-850)">
+&#x20;   \<img src="[https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge\&logo=github)" alt="GitHub"/>
+&#x20; \</a>
+&#x20; \<a href="mailto\:kanishkgins\@gmail.com">
+&#x20;   \<img src="[https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge\&logo=gmail)" alt="Email"/>
+&#x20; \</a>
+\</p>
 
 - 💼 LinkedIn: [kanish-k850](https://www.linkedin.com/in/kanish-k850)
-- 📧 Email: [kanishkgins@gmail.com](mailto:kanishkgins@gmail.com)
+- 📧 Email: [kanishkgins@gmail.com](mailto\:kanishkgins@gmail.com)
 - 💻 GitHub: [KANISH-850](https://github.com/KANISH-850)
 
 ---
